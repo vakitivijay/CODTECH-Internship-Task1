@@ -1,24 +1,26 @@
-**Name:**VIJAYKUMAR VAKITI
-**Company:**CODTECH IT SOLUTIONS
-**ID:**CT08DS329
-**Domain:**WEB DEVELOPMENT
-**Duration:**May to June 2024
+# CODTECH-Intership-Task1(Todos list)
+
+Name:**VIJAYKUMAR VAKITI
+Company:**CODTECH IT SOLUTIONS
+ID:**CT08DS329
+Domain:**WEB DEVELOPMENT
+Duration:**May to June 2024
 **Mentor:**G.SRAVANI
 
-###Overview Of the Project
+# Overview Of the Project
 
-###Project:To-Do List Application: A Personal Productivity Companion
+# Project:To-Do List Application: A Personal Productivity Companion
 
-###Objective
+# Objective
     As a busy individual, I know how overwhelming it can feel to keep track of multiple tasks, deadlines, and reminders. That's why I'm excited to introduce my To-Do List Application, a personalized tool designed to help me stay organized, focused, and productive.
 
-###The Problem
+# The Problem
    I've tried using sticky notes, calendars, and even mental reminders, but they often fall short. I forget tasks, miss deadlines, or struggle to prioritize my workload. I need a system that's easy to use, flexible, and always accessible.
 
-###The Solution
+# The Solution
    My To-Do List Application is a web-based solution that allows me to create, manage, and track my tasks with ease. With a clean and intuitive interface, I can quickly add new tasks, set reminders, and categorize them by priority. The application also features a drag-and-drop functionality, enabling me to rearrange tasks based on their urgency.
 
-###Key Features
+# Key Features
 
  * **Task Management**: Create, edit, and delete tasks with ease
 * **Priority Categorization**: Organize tasks by low, medium, or high priority
@@ -28,7 +30,7 @@
 * **Completed Tasks**: View and manage completed tasks in a separate section
 * **Local Storage**: Data is stored locally in my browser, ensuring my tasks are always accessible
 
-###Benefits
+# Benefits
 
 * **Increased Productivity**: Stay focused and on track with a clear overview of my tasks
 * **Reduced Stress**: Never miss a deadline or forget a task again
